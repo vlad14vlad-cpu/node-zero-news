@@ -14,6 +14,13 @@
       "body": "Come talk builds, report bugs and grab codes early on our Discord. Tap the Discord button on the main menu.",
       "published": "2026-08-21",
       "expires": "2026-12-31"
+    },
+       {
+      "id": 3,
+      "title": "THANK YOU, TESTERS",
+      "body": "You played this thing when it was held together with tape. You found the crashes, sat through the broken ads, and told me what was wrong instead of just closing it.\n\nNODE ZERO is better because of you, and you have my undying gratitude.\n\nHere's 5,000 Scrap to get you started. Go break something else.",
+      "published": "2026-08-22",
+      "reward": { "scrap": 5000 }
     }
   ],
   "codes": [
