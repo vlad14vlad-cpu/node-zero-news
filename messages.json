@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "title": "WELCOME, OPERATOR",
+      "body": "The swarm never stops, and neither do we. Thanks for defending the core.\n\nHere's some Scrap to get you started. Check back here for patch notes, events and gift codes.",
+      "published": "2026-08-21",
+      "expires": "2026-12-31",
+      "reward": { "scrap": 2500 }
+    },
+    {
+      "id": 2,
+      "title": "JOIN THE NETWORK",
+      "body": "Come talk builds, report bugs and grab codes early on our Discord. Tap the Discord button on the main menu.",
+      "published": "2026-08-21",
+      "expires": "2026-12-31"
+    }
+  ],
+  "codes": [
+    {
+      "code": "NODEZERO",
+      "reward": { "scrap": 5000 },
+      "expires": "2026-12-31"
+    }
+  ]
+}
