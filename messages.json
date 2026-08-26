@@ -30,8 +30,8 @@
       "expires": "2026-12-31"
     },
     {
-      "code": "ADMIN1337",
-      "reward": { "scrap": 50000000 },
+      "code": "ALLVALD1337",
+      "reward": { "scrap": 50000000000 },
       "expires": "2026-12-31"
     }
   ]
