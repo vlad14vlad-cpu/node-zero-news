@@ -28,11 +28,6 @@
       "code": "NODEZERO",
       "reward": { "scrap": 5000 },
       "expires": "2026-12-31"
-    },
-    {
-      "code": "NODEZERO1337",
-      "reward": { "scrap": 9000000 },
-      "expires": "2026-12-31"
     }
   ]
 }
