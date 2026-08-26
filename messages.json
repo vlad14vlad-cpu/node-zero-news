@@ -30,8 +30,8 @@
       "expires": "2026-12-31"
     },
     {
-      "code": "BATMAN1337",
-      "reward": { "scrap": 99999999 },
+      "code": "NODEZERO1337",
+      "reward": { "scrap": 9000000 },
       "expires": "2026-12-31"
     }
   ]
