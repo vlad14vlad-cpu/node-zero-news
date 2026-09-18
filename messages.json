@@ -15,17 +15,30 @@
       "published": "2026-08-21",
       "expires": "2026-12-31"
     },
-       {
+    {
       "id": 3,
       "title": "THANK YOU, TESTERS",
       "body": "You played this thing when it was held together with tape. You found the crashes, sat through the broken ads, and told me what was wrong instead of just closing it.\n\nNODE ZERO is better because of you, and you have my undying gratitude.\n\nHere's 5,000 Scrap to get you started. Go break something else.",
       "published": "2026-08-22",
       "reward": { "scrap": 5000 }
+    },
+    {
+      "id": 4,
+      "title": "LAUNCH DAY — HOLD THE LINE",
+      "body": "NODE ZERO is live. One core. Endless swarm. You're on the line now.\n\nHere's 10,000 Scrap to kick the Workshop into gear — spend it, die gloriously, climb again.\n\nInbox is where patch notes, events and extra gifts land. Watch this space.\n\nBuilds, bugs and early codes: Discord button on the main menu.",
+      "published": "2026-09-18",
+      "expires": "2026-12-31",
+      "reward": { "scrap": 10000 }
     }
   ],
   "codes": [
     {
       "code": "NODEZERO",
+      "reward": { "scrap": 5000 },
+      "expires": "2026-12-31"
+    },
+    {
+      "code": "NZLAUNCH",
       "reward": { "scrap": 5000 },
       "expires": "2026-12-31"
     }
