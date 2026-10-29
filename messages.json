@@ -16,7 +16,7 @@
       "reward": { "scrap": 10000 }
     },
     {
-      "id": 3,
+      "id": "news-2026-10-29-leaderboards",
       "title": "GET ON THE LEADERBOARDS",
       "body": "Pilot, your scores might be hidden! Google Play Games makes new profiles PRIVATE by default, so nobody else can see you on the boards.\n\nTo fix it: open the Play Games app → tap your profile icon → Settings → Play Games profile → Privacy & Settings → choose Public profile.\n\nThen beat your own best once. Scores set while private stay hidden, so you need one new record to show up for everyone.\n\nAnd if you haven't yet, come say hi on Discord: tap the Discord button on the main menu. Builds, bugs, early codes and sneak peeks. We'd love to have you there!",
       "published": "2026-10-29",
