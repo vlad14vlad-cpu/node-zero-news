@@ -21,6 +21,14 @@
       "body": "Pilot, your scores might be hidden! Google Play Games makes new profiles PRIVATE by default, so nobody else can see you on the boards.\n\nTo fix it: open the Play Games app → tap your profile icon → Settings → Play Games profile → Privacy & Settings → choose Public profile.\n\nThen beat your own best once. Scores set while private stay hidden, so you need one new record to show up for everyone.\n\nAnd if you haven't yet, come say hi on Discord: tap the Discord button on the main menu. Builds, bugs, early codes and sneak peeks. We'd love to have you there!",
       "published": "2026-10-29",
       "expires": "2027-01-31"
+    },
+    {
+      "id": "news-2026-11-09-player-reviews",
+      "title": "YOUR REVIEW HELPS IMMENSELY ❤️",
+      "body": "Pilot, a small favor from the person behind NODE ZERO ❤️\n\nI'm the sole developer and publisher, and with no marketing budget, I rely on your word of mouth to help the game grow.\n\nIf you have a moment, please leave an honest review on Google Play. It helps immensely with getting NODE ZERO discovered, and your feedback helps me make it better.\n\nLeave a review: https://play.google.com/store/apps/details?id=com.nodezero.towerdefense\n\nThank you for playing and giving this game a chance. Your support means the world to me.\n\nVlad",
+      "published": "2026-11-09",
+      "expires": "2027-01-31"
+      "reward": { "scrap": 10000 }
     }
   ],
   "codes": [
